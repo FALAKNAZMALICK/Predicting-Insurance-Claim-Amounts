@@ -39,6 +39,3 @@ It contains individual records with features including:
 - **Smoking Status:** Strongest predictor of higher insurance charges  
 - **BMI & Age:** Both positively correlated with charges
 - *Model Performance:* Achieved reasonable accuracy with MAE ≈ 4181 and RMSE ≈ 5796 
-- **Model Performance:** Achieved reasonable accuracy with MAE ≈ XXXX and RMSE ≈ XXXX (replace with your actual values)
-
-or ye? ya isko or polish karoon?
